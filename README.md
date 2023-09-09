@@ -1,1 +1,1 @@
-![image](https://github.com/0romos/0romos/assets/138330732/53eb0d5b-323d-4ced-ba9b-558d820bd9ce)
+![CosOS-Preview](https://github.com/0romos/0romos/assets/138330732/35a7e778-f8e3-4b3f-91d6-8400b82a8d79)
