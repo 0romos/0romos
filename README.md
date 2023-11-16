@@ -2,7 +2,6 @@
 ## Tables of Contents
 - 1.0  About Me
 - 2.0  EDV
-<br>
 <!-- <br><br><br><br><br><br> -->
 <!-- <p dir="auto" align="center"><a target="_blank" href="https://discord.gg/users/621713529543720970"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p> -->
 
@@ -12,8 +11,6 @@ I am Oromo, 19 years old, and majoring in Cyber Security, Computer/Data Science,
 Currently, I am focused on low-level development and participating in Capture The Flags and King Of The Hills events, essentially anything related to low-level development and hacking. Over the past five years, I have engaged in various Bug Bounties for numerous companies. I have discovered and reported bugs, exploits, and 0days for platforms such as Discord, Instagram, Sleek, Twitter, Lieferando, OBS, and even government websites (some proof of concepts and exploits can be found on my YouTube channel and Github repositories). I have also participated in several cybersecurity events throughout my journey.
 
 I am always on the lookout for new projects to work on and new collaborators. Feel free to check out my repositories, and don't hesitate to reach out if you would like to work on any of my existing projects or if you think I would be a good fit for your project. I appreciate every piece of information I receive and am always eager to learn about things I don't know.
-
-<br>
 
 ## 2.0 EDV
 
