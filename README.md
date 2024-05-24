@@ -15,7 +15,7 @@ I am always on the lookout for new projects to work on and new collaborators. Fe
 ## 2.0 EDV
 
 I have lot of experience in the field of Cyber Security and I have worked on many 
-different Projects through out the Years(2015-2023).
+different Projects through out the Years(2015-2024).
 
 ```ini
   - Computer Science       -> Fictional Timetableing System, OCR, FR-CCTV - (Face Recognition AI)
